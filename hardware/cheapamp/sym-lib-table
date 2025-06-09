@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name tas5754mlib)(type Legacy)(uri ${KIPRJMOD}/tas5754mlib.lib)(options "")(descr ""))
+  (lib (name tas5754m_symbol)(type Legacy)(uri /Users/aselle/code/cheapskatedsp/schematic/libs/tas5754m_symbol.lib)(options "")(descr ""))
+  (lib (name tas5754m-rescue)(type Legacy)(uri ${KIPRJMOD}/tas5754m-rescue.lib)(options "")(descr ""))
+)

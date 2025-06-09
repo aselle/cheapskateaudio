@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tas5754m-rescue")(type "KiCad")(uri "${KIPRJMOD}/tas5754m-rescue.kicad_sym")(options "")(descr ""))
+)

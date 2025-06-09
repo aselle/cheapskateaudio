@@ -1,0 +1,11 @@
+0 /favicon.ico
+1 /index.html
+2 /asset-manifest.json
+3 /precache-manifest.57752d4847ec4d1b79dd7bec5e0459c7.js
+4 /manifest.json
+5 /service-worker.js
+6 /static/css/main.85b607a5.chunk.css
+7 /static/js/runtime~main.a8a9905a.js
+8 /static/js/main.5d7bbc0a.chunk.js
+9 /static/js/2.3de435ed.chunk.js
+10 /static/media/logo.5d5d9eef.svg
